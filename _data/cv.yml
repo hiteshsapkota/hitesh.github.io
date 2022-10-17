@@ -59,7 +59,7 @@
   contents:
     - title: Anomaly Detection.
       items: 
-        - DRO based Bayesian Multiple Instance Learning
+        - DRO based Bayesian Multiple Instance Learning.
         - Bayesian Nonparametirc Video Paritition Techniques.
         - Multiple Instance Active Learning Techniques.
     - title: Openset Detection.
