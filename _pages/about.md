@@ -1,25 +1,27 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Candiate, <a href='https://www.rit.edu/'>Rochester Institute of Technology</a>, Rochester, NY, 14623, USA.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: hitesh_image.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>444 Clay Road, Apt. D</p>
+    <p>Rochester, NY, 14623</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I am 6th year PhD candidate in Computing and Information Sciences working with [Prof. Qi Yu](https://www.rit.edu/directory/qyuvks-qi-yu) at [Machine Learning and Data Intensive Computing](https://www.rit.edu/mining/) lab. I worked as an Applied Scientist Intern in [Amazon](https://www.amazon.com/) during summer 2021 and 2022. Prior to pursuing PhD, I completed my undergraduate in Electronics and Communication Engineering from [Institute Engineering, Pulchowk Campus](https://pcampus.edu.np/), Nepal.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+#### **Research Overview**
+My research includes Video Anomaly Detection by developing weakly supervised and active learning techniques. Also, I have been working on openset detection under imbalanced class, few shot learning, and spurious correlation/biased setting by leveraging the concepts of Evidential learning and Distributionally Robust Optimization (DRO). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+#### **Research Interests**
+Reinforcement Learning, Multiple Instance Learning, Distributionally Robust Optimization, Active Learning, Anomaly Detection, Openset Detection, Fairness AI. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+

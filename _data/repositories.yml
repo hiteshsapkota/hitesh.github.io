@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - hiteshsapkota
+  - ritmininglab
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - hiteshsapkota/Optimal-Path-Detection
+  - hiteshsapkota/English-Dutch-Language-Classifier
+  - ritmininglab/BN-SVP
+  - ritmininglab/Distributionally-Robust-Optimization-for-Deep-Kernel-Multiple-Instance-Learning
+  - ritmininglab/ADMIL-P-F
+
