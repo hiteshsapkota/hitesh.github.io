@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candiate, <a href='https://www.rit.edu/'>Rochester Institute of Technology</a>, Rochester, NY, 14623, USA.
+subtitle: PhD Candidate, <a href='https://www.rit.edu/'>Rochester Institute of Technology</a>, Rochester, NY, 14623, USA.
 
 profile:
   align: right
