@@ -70,7 +70,7 @@
 	year = {2021},
 	Bdsk-Url-1 = {https://doi.org/10.1109/ICDM51629.2021.00078},
 	abbr= {ICDM},
-	selected={true}}
+	}
 
 @inproceedings{Sapkota_2022_CVPR,
 	abstract = {Multiple-instance learning (MIL) provides an effective way to tackle the video anomaly detection problem by modeling it as a weakly supervised problem as the labels are usually only available at the video level while missing for frames due to expensive labeling cost. We propose to conduct novel Bayesian non-parametric submodular video partition (BN-SVP) to significantly improve MIL model training that can offer a highly reliable solution for robust anomaly detection in practical settings that include outlier segments or multiple types of abnormal events. BN-SVP essentially performs dynamic non-parametric hierarchical clustering with an enhanced self-transition that groups segments in a video into temporally consistent and semantically coherent hidden states that can be naturally interpreted as scenes. Each segment is assumed to be generated through a non-parametric mixture process that allows variations of segments within the same scenes to accommodate the dynamic and noisy nature of many real-world surveillance videos. The scene and mixture component assignment of BN-SVP also induces a pairwise similarity among segments, resulting in non-parametric construction of a submodular set function. Integrating this function with an MIL loss effectively exposes the model to a diverse set of potentially positive instances to improve its training. A greedy algorithm is developed to optimize the submodular function and support efficient model training. Our theoretical analysis ensures a strong performance guarantee of the proposed algorithm. The effectiveness of the proposed approach is demonstrated over multiple real-world anomaly video datasets with robust detection performance.},
@@ -108,12 +108,14 @@
 	selected={true}}
 
 @inproceedings{Sapkota_2023_ICLR,
+abstract = {Open set detection (OSD) aims at identifying data samples of an unknown class (ie, open set) from those of known classes (ie, closed set) based on a model trained from closed set samples. However, a closed set may involve a highly imbalanced class distribution. Accurately differentiating open set samples and those from a minority class in the closed set poses a fundamental challenge as the model may be equally uncertain when recognizing samples from the minority class. In this paper, we propose Adaptive Robust Evidential Optimization (AREO) that offers a principled way to quantify sample uncertainty through evidential learning while optimally balancing the model training over all classes in the closed set through adaptive distributively robust optimization (DRO). To avoid the model to primarily focus on the most difficult samples by following the standard DRO, adaptive DRO training is performed, which is governed by a novel multi-scheduler learning mechanism to ensure an optimal model training behavior that gives sufficient attention to the difficult samples and the minority class while capable of learning common patterns from the majority classes. Our experimental results on multiple real-world datasets demonstrate that the proposed model outputs uncertainty scores that can clearly separate samples from closed and open sets, respectively, and the detection results outperform the competitive baselines.}
 title={Adaptive Robust Evidential Optimization For Open Set Detection from Imbalanced Data},
 author={Hitesh Sapkota and Qi Yu},
 booktitle={The Eleventh International Conference on Learning Representations },
 year={2023},
 location = { Kigali, Rwanda},
 url={https://openreview.net/forum?id=3yJ-hcJBqe},
+pdf = {https://openreview.net/forum?id=3yJ-hcJBqe},
 abbr = {ICLR}, 
 selected={true}
 }
@@ -121,12 +123,14 @@ selected={true}
 @inproceedings{
 Sapkota_2023_NeurIPS,
 title={Distributionally Robust Ensemble of Lottery Tickets Towards Calibrated  Sparse Network Training},
+abstract = {The recently developed sparse network training methods, such as Lottery Ticket Hypothesis (LTH) and its variants, have shown impressive learning capacity by finding sparse sub-networks from a dense one. While these methods could largely sparsify deep networks, they generally focus more on realizing comparable accuracy to dense counterparts yet neglect network calibration. However, how to achieve calibrated network predictions lies at the core of improving model reliability, especially when it comes to addressing the overconfident issue and out-of-distribution cases. In this study, we propose a novel Distributionally Robust Optimization (DRO) framework to achieve an ensemble of lottery tickets towards calibrated network sparsification. Specifically, the proposed DRO ensemble aims to learn multiple diverse and complementary sparse sub-networks (tickets) with the guidance of uncertainty sets, which encourage tickets to gradually capture different data distributions from easy to hard and naturally complement each other. We theoretically justify the strong calibration performance by showing how the proposed robust training process guarantees to lower the confidence of incorrect predictions. Extensive experimental results on several benchmarks show that our proposed lottery ticket ensemble leads to a clear calibration improvement without sacrificing accuracy and burdening inference costs. Furthermore, experiments on OOD datasets demonstrate the robustness of our approach in the open-set environment.}
 author={Hitesh Sapkota and Dingrong Wang and ZHIQIANG TAO and Qi Yu},
 booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
 year={2023},
 location = { New Orleans, USA},
 abbr={NeurIPS},
 url={https://openreview.net/forum?id=WrRG0C1Vo5},
+pdf = {https://openreview.net/forum?id=WrRG0C1Vo5},
 selected={true}
 }
 
