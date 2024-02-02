@@ -8,9 +8,9 @@ profile:
   align: right
   image: hitesh_image.jpeg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>444 Clay Road, Apt. D</p>
-    <p>Rochester, NY, 14623</p>
+  #address: >
+  #  <p>444 Clay Road, Apt. D</p>
+  #  <p>Rochester, NY, 14623</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
