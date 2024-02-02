@@ -29,6 +29,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Applied Scientist II
+      institution: Amazon, Hardware-Product Integrity, Sunnyvale, CA, USA.
+      year: 2023 DEC - 2024 (Ongoing)
+      description:
+        - Devising LLMs that can assist engineers in the hardware manufacturing process by providing solutions to the various challenging questions.
+
+
+  contents:
     - title: Applied Scientist Intern
       institution: Amazon, Hardware-Product Integrity, Sunnyvale, CA, USA.
       year: 2022 May - 2022 Aug
