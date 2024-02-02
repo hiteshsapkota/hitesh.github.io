@@ -32,7 +32,7 @@
   contents:
     - title: Applied Scientist II
       institution: Amazon, Hardware-Product Integrity, Sunnyvale, CA, USA.
-      year: 2023 DEC - Current
+      year: 2023 DEC - 2024 (Ongoing)
       description:
         - Devising LLMs that can assist engineers in the hardware manufacturing process by providing solutions to the various challenging questions.
 
@@ -81,7 +81,7 @@
       items:
       - Partial Sketch based Imane Retrieval using Double Exploration.
       - Dense Object Detection using Evidential Q-Learning.
-    - title: Network Sparisification
+    - title: Network Sparisification.
       - Calibrated Sparse DNN using Distributionally Robust Ensemble of Lottery Tickets.
       - Generalized Focal Loss Ensemble of Multimodal Sparse Network for Visual Question Answeing. 
     - title: Generative AI.
