@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: Research Leading to the following publication
-years: [2019,  2021,   2022]
+years: [2019,  2021,   2022, 2023]
 nav: true
 nav_order: 1
 ---
