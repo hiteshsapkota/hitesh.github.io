@@ -13,9 +13,12 @@
       institution: Rochester Institute of Technology, Rochester, NY, USA
       year: 2017-2023
       description:
-        - Developing  robust machine learning techniques to solve the anomaly and openset detection.
-        - Developing reinforcement learning techniques with effective exploration for partial sketch based image retrieval and dense object detection.
-       
+        - Developed Distributionally Robust Optimization (DRO) based Bayesian Multiple Instance Learning technique for Anomaly Detection resulting. 
+        - Developed Deep Reinforcement Learning technique for Partial Sketch based Image Retrieval.
+        - Developed Evidential Openset Detection techniques considering Imbalance Classes and Few Shot Learning Setting.
+        - Developed Distributionally Robust Ensemble of Sparse Networks for better Calibration, Debiased, and Openset Detection Performance.
+        - Developed Generalized Focal Loss Ensemble of Low-Rank Networks for Calibrated Visual Question Answering. 
+
     - title: BE in Electrionics and Communication
       institution: Institute of Engineering (IOE) Pulchowk, Lalitpur, Nepal
       year: 2012 - 2015
