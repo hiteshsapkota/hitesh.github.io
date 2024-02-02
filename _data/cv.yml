@@ -35,8 +35,6 @@
       description:
         - Devising LLMs that can assist engineers in the hardware manufacturing process by providing solutions to the various challenging questions.
 
-
-  contents:
     - title: Applied Scientist Intern
       institution: Amazon, Hardware-Product Integrity, Sunnyvale, CA, USA.
       year: 2022 May - 2022 Aug
@@ -82,6 +80,14 @@
       items:
       - Partial Sketch based Imange Retrieval using Double Exploration.
       - Dense Object Detection using Evidential Q-Learning.
+    - title: Network Sparisification.
+      items:
+      - Calibrated Sparse DNN using Distributionally Robust Ensemble of Lottery Tickets.
+      - Generalized Focal Loss Ensemble of Multimodal Sparse Network for Visual Question Answeing. 
+    - title: Generative AI.
+      items:
+        - Sparsified Generative AI models that are sparse, uncertainty aware, and unbiased.
+        
 
 - title: Other Interests
   type: list
