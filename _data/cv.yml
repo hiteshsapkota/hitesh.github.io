@@ -13,9 +13,13 @@
       institution: Rochester Institute of Technology, Rochester, NY, USA
       year: 2017-2023
       description:
-        - Developing  robust machine learning techniques to solve the anomaly and openset detection.
-        - Developing reinforcement learning techniques with effective exploration for partial sketch based image retrieval and dense object detection.
-       
+        - Developed Distributionally Robust Optimization (DRO) based Bayesian Multiple Instance Learning technique for Anomaly Detection resulting. 
+        - Developed Deep Reinforcement Learning technique for Partial Sketch based Image Retrieval.
+        - Developed Evidential Openset Detection techniques considering Imbalance Classes and Few Shot Learning Setting.
+        - Developed Distributionally Robust Ensemble of Sparse Networks for better Calibration, Debiased, and Openset Detection Performance.
+        - Developed Generalized Focal Loss Ensemble of Low-Rank Networks for Calibrated Visual Question Answering. 
+
+        
     - title: BE in Electrionics and Communication
       institution: Institute of Engineering (IOE) Pulchowk, Lalitpur, Nepal
       year: 2012 - 2015
@@ -26,6 +30,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Applied Scientist II
+      institution: Amazon, Hardware-Product Integrity, Sunnyvale, CA, USA.
+      year: 2023 DEC - Current
+      description:
+        - Devising LLMs that can assist engineers in the hardware manufacturing process by providing solutions to the various challenging questions.
+
     - title: Applied Scientist Intern
       institution: Amazon, Hardware-Product Integrity, Sunnyvale, CA, USA.
       year: 2022 May - 2022 Aug
@@ -69,8 +79,15 @@
         - Fairness AI.
     - title: Reinforcement Learning. 
       items:
-      - Partial Sketch based Imange Retrieval using Double Exploration.
+      - Partial Sketch based Imane Retrieval using Double Exploration.
       - Dense Object Detection using Evidential Q-Learning.
+    - title: Network Sparisification
+      - Calibrated Sparse DNN using Distributionally Robust Ensemble of Lottery Tickets.
+      - Generalized Focal Loss Ensemble of Multimodal Sparse Network for Visual Question Answeing. 
+    - title: Generative AI.
+      items:
+        - Sparsified Generative AI models that are sparse, uncertainty aware, and unbiased.
+        
 
 - title: Other Interests
   type: list

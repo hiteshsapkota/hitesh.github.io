@@ -28,3 +28,11 @@
 "AISTATS":
   url: https://aistats.org/aistats2021/
 
+"ICLR":
+  url: https://iclr.cc/Conferences/2023
+  color: "#6B8E23" 
+
+"NeurIPS":
+  url: https://iclr.cc/Conferences/2023
+  color : "#6C3483"
+
